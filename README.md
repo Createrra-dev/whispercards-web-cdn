@@ -2,4 +2,4 @@
 
 main.dart.js через jsDelivr. CanvasKit — gstatic Flutter.
 
-jsDelivr: https://cdn.jsdelivr.net/gh/Createrra-dev/whispercards-web-cdn@web-1.0.165-168/
+jsDelivr: https://cdn.jsdelivr.net/gh/Createrra-dev/whispercards-web-cdn@web-1.0.166-169/
