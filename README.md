@@ -1,2 +1,3 @@
 # whispercards-web-cdn
-Public CDN assets for whispercards.ru Flutter web (jsDelivr)
+
+jsDelivr: https://cdn.jsdelivr.net/gh/Createrra-dev/whispercards-web-cdn@web-1.0.162-165/
