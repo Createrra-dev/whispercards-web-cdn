@@ -70359,7 +70359,7 @@ return A.e(B.jd.Jz(0,"astroai_jwt"),$async$kg)
 case 7:j=c
 if(j!=null&&j.length!==0)J.bU(k,"Authorization","Bearer "+j)
 s=8
-return A.e(m.a.apm("/api/telemetry/perf",A.a3(["platform",A.bFT(),"appVersion","1.0.181 (184)","events",l],i,t.K),A.bOH(k),h),$async$kg)
+return A.e(m.a.apm("/api/telemetry/perf",A.a3(["platform",A.bFT(),"appVersion","1.0.182 (185)","events",l],i,t.K),A.bOH(k),h),$async$kg)
 case 8:n.push(6)
 s=5
 break
@@ -77066,7 +77066,7 @@ m.push(B.er)
 m.push(new A.aps(r>=4?o.gaXF():n,B.dg,n))
 if(o.Q)B.c.J(m,A.a([B.er,B.b9P,B.cj,new A.aoI(o.gaYS(),B.dg,n)],j))
 B.c.J(i,m)}i.push(B.aOv)
-i.push(A.p("1.0.181 (184)",B.b3P,n,n,n,n,A.dt().$3$color$fontSize$letterSpacing(B.yZ.p(0.8),12,0.2),B.H,n,n))
+i.push(A.p("1.0.182 (185)",B.b3P,n,n,n,n,A.dt().$3$color$fontSize$letterSpacing(B.yZ.p(0.8),12,0.2),B.H,n,n))
 return A.fi(n,B.adh,A.jS(A.dB(!0,new A.a2(B.agB,A.U(i,B.l,n,B.f,B.i,0,n,B.k),n),B.K,!0,!0),k),n,!1,!1,n,n)}}
 A.bwS.prototype={
 $0(){var s=this.a
@@ -79484,14 +79484,14 @@ return A.k($async$$0,r)},
 $S:2}
 A.arG.prototype={
 t(a){var s,r=null,q=A.a([],t.p)
-for(s=0;s<5;++s)q.push(new A.cT(B.au2[s],r,r,A.c9("assets/images/onboarding_ui/star.png",B.u,r,new A.bj4(),B.a5,r,!1,12,r,B.a6z,12),r))
-q.push(A.c9(u.W,B.u,r,new A.bj5(),B.fE,B.b8,!1,180,r,r,r))
-return new A.ag(r,210,new A.cx(B.u,r,B.b6,B.w,q,r),r)}}
+for(s=0;s<5;++s)q.push(new A.cT(B.au2[s],r,r,A.c9("assets/images/onboarding_ui/star.png",B.u,r,new A.bj4(),B.a5,r,!1,11,r,B.a6z,11),r))
+q.push(A.c9(u.W,B.u,r,new A.bj5(),B.fE,B.b8,!1,130,r,r,r))
+return new A.ag(r,160,new A.cx(B.u,r,B.b6,B.w,q,r),r)}}
 A.bj4.prototype={
 $3(a,b,c){return B.ay},
 $S:49}
 A.bj5.prototype={
-$3(a,b,c){return A.aG(B.fc,B.h.p(0.85),null,null,null,108)},
+$3(a,b,c){return A.aG(B.fc,B.h.p(0.85),null,null,null,78)},
 $S:9}
 A.apj.prototype={
 t(a){var s,r,q,p=this,o=null,n=A.z(a),m=p.d,l=m?B.h:B.p,k=A.a5(24),j=A.a5(24),i=m?B.h:B.a4.p(0.7)
@@ -80300,7 +80300,7 @@ g.push(new A.ry(A.a([new A.nq(A.aG(B.aib,B.h.p(0.95),a5,a5,a5,22),"\u0412\u044b\
 g.push(B.h_)
 a7=i.Q
 n=a7==null
-g.push(A.p("\u0412\u0435\u0440\u0441\u0438\u044f 1.0.181 (184)",B.b4l,a5,a5,a5,a5,n?a5:a7.am(B.p.p(0.7)),B.H,a5,a5))
+g.push(A.p("\u0412\u0435\u0440\u0441\u0438\u044f 1.0.182 (185)",B.b4l,a5,a5,a5,a5,n?a5:a7.am(B.p.p(0.7)),B.H,a5,a5))
 g.push(B.S)
 g.push(A.p("\u0427\u0442\u0435\u043d\u0438\u044f \xab\u0428\u0435\u043f\u043e\u0442 \u043a\u0430\u0440\u0442\xbb \u0441\u043e\u0437\u0434\u0430\u044e\u0442\u0441\u044f \u0418\u0418 \u0434\u043b\u044f \u0440\u0430\u0437\u043c\u044b\u0448\u043b\u0435\u043d\u0438\u044f \u0438 \u0440\u0430\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u044f. \u041e\u043d\u0438 \u043d\u0435 \u0437\u0430\u043c\u0435\u043d\u044f\u044e\u0442 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0443\u044e \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0446\u0438\u044e.",a5,a5,a5,a5,a5,n?a5:a7.d8(B.p.p(0.75),1.35),a5,a5,a5))
 return A.hv(a5,new A.W(20,4,20,100+j.r.d),A.U(g,B.B,a5,B.f,B.i,0,a5,B.k),k,a5,!0,"")}}
@@ -80740,7 +80740,7 @@ g=m.gbD().aA(0,$.eH(),t.F)
 f=B.d.a_(m.x.a.a)
 if(f.length===0)f=null
 s=7
-return A.e(g.qi("1.0.181 (184)",f,d,A.bFT()),$async$Ok)
+return A.e(g.qi("1.0.182 (185)",f,d,A.bFT()),$async$Ok)
 case 7:if(m.c==null){n=[1]
 s=5
 break}m.F(new A.bqP(m))
@@ -80782,7 +80782,7 @@ s=A.p("\u041e\u043f\u0438\u0448\u0438\u0442\u0435, \u0447\u0442\u043e \u043f\u04
 r=A.eb(m,B.as,!1,m,!0,B.w,m,A.ej(),n.w,m,m,m,m,m,2,B.akV,B.y,!0,m,!0,m,!1,m,B.aQ,m,m,m,B.b4a,m,m,m,4000,m,6,m,m,!1,"\u2022",m,m,m,m,m,!1,m,m,!1,m,!0,m,B.b1,m,m,m,m,m,m,m,m,m,m,m,m,!0,B.ag,m,B.aVc,m,m,m,m)
 q=A.eb(m,B.as,!1,m,!0,B.w,m,A.ej(),n.x,m,m,m,m,m,2,B.akZ,B.y,!0,m,!0,m,!1,m,B.aQ,m,m,m,B.b47,m,B.xu,m,320,m,1,m,m,!1,"\u2022",m,m,m,m,m,!1,m,m,!1,m,!0,m,B.b1,m,m,m,m,m,m,m,m,m,m,m,m,!0,B.ag,m,B.ba,m,m,m,m)
 j=j.Q
-j=A.p("\u0412\u0435\u0440\u0441\u0438\u044f 1.0.181 (184) \xb7 web",m,m,m,m,m,j==null?m:j.am(B.p.p(0.7)),m,m,m)
+j=A.p("\u0412\u0435\u0440\u0441\u0438\u044f 1.0.182 (185) \xb7 web",m,m,m,m,m,j==null?m:j.am(B.p.p(0.7)),m,m,m)
 p=n.y?m:n.gaXI()
 o=A.lT(B.h,m,B.Gy,m,B.jv,m,m)
 j=A.U(A.a([s,B.h_,r,B.S,q,B.J,j,B.hD,A.hY(n.y?B.a42:B.a4V,B.b3G,p,o)],t.p),B.B,m,B.f,B.i,0,m,B.k)}return A.hv(m,B.zI,j,k,m,!0,"\u041f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430")}}
