@@ -45694,7 +45694,7 @@ case 2:return A.j(o.at(-1),r)}})
 return A.l($async$a2r,r)},
 bzs(){var s=0,r=A.m(t.N),q,p=2,o=[],n,m,l,k,j,i,h,g,f
 var $async$bzs=A.n(function(a,b){if(a===1){o.push(b)
-s=p}for(;;)switch(s){case 0:g=""
+s=p}for(;;)switch(s){case 0:g="5775e98326fd499985883f46c25ead80"
 if(J.bU(g)===0)throw A.d(B.a6f)
 l=A.Vh()
 k=l.gdG(l)
@@ -69763,7 +69763,7 @@ return A.e(B.jb.J9(0,"astroai_jwt"),$async$kd)
 case 7:j=c
 if(j!=null&&j.length!==0)J.bT(k,"Authorization","Bearer "+j)
 s=8
-return A.e(m.a.aoF("/api/telemetry/perf",A.a2(["platform",A.bDd(),"appVersion","1.0.189 (192)","events",l],i,t.K),A.bM_(k),h),$async$kd)
+return A.e(m.a.aoF("/api/telemetry/perf",A.a2(["platform",A.bDd(),"appVersion","1.0.190 (193)","events",l],i,t.K),A.bM_(k),h),$async$kd)
 case 8:n.push(6)
 s=5
 break
@@ -76405,7 +76405,7 @@ m.push(B.em)
 m.push(new A.aoA(r>=4?o.gaWI():n,B.dd,n))
 if(o.Q)B.c.K(m,A.a([B.em,B.b8a,B.ci,new A.anR(o.gaXU(),B.dd,n)],j))
 B.c.K(i,m)}i.push(B.aMY)
-i.push(A.p("1.0.189 (192)",B.b28,n,n,n,n,A.dq().$3$color$fontSize$letterSpacing(B.yM.q(0.8),12,0.2),B.G,n,n))
+i.push(A.p("1.0.190 (193)",B.b28,n,n,n,n,A.dq().$3$color$fontSize$letterSpacing(B.yM.q(0.8),12,0.2),B.G,n,n))
 return A.fI(n,B.acB,A.jN(A.dV(!0,new A.a6(B.afC,A.W(i,B.l,n,B.h,B.i,0,n,B.k),n),B.L,!0,!0),k),n,!1,!1,n,n)}}
 A.buu.prototype={
 $0(){var s=this.a
@@ -78564,7 +78564,7 @@ g.push(new A.ri(A.a([new A.nl(A.aM(B.ahb,B.f.q(0.95),a5,a5,22),"\u0412\u044b\u04
 g.push(B.fW)
 a7=i.Q
 n=a7==null
-g.push(A.p("\u0412\u0435\u0440\u0441\u0438\u044f 1.0.189 (192)",B.b2E,a5,a5,a5,a5,n?a5:a7.ar(B.q.q(0.7)),B.G,a5,a5))
+g.push(A.p("\u0412\u0435\u0440\u0441\u0438\u044f 1.0.190 (193)",B.b2E,a5,a5,a5,a5,n?a5:a7.ar(B.q.q(0.7)),B.G,a5,a5))
 g.push(B.U)
 g.push(A.p("\u0427\u0442\u0435\u043d\u0438\u044f \xab\u0428\u0435\u043f\u043e\u0442 \u043a\u0430\u0440\u0442\xbb \u0441\u043e\u0437\u0434\u0430\u044e\u0442\u0441\u044f \u0418\u0418 \u0434\u043b\u044f \u0440\u0430\u0437\u043c\u044b\u0448\u043b\u0435\u043d\u0438\u044f \u0438 \u0440\u0430\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u044f. \u041e\u043d\u0438 \u043d\u0435 \u0437\u0430\u043c\u0435\u043d\u044f\u044e\u0442 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0443\u044e \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0446\u0438\u044e.",a5,a5,a5,a5,a5,n?a5:a7.dm(B.q.q(0.75),1.35),a5,a5,a5))
 return A.hn(a5,new A.X(20,4,20,100+j.r.d),A.W(g,B.C,a5,B.h,B.i,0,a5,B.k),k,a5,!0,"")}}
@@ -79004,7 +79004,7 @@ g=m.gbM().aH(0,$.eP(),t.F)
 f=B.d.a_(m.x.a.a)
 if(f.length===0)f=null
 s=7
-return A.e(g.qc("1.0.189 (192)",f,d,A.bDd()),$async$NR)
+return A.e(g.qc("1.0.190 (193)",f,d,A.bDd()),$async$NR)
 case 7:if(m.c==null){n=[1]
 s=5
 break}m.I(new A.bov(m))
@@ -79046,7 +79046,7 @@ s=A.p("\u041e\u043f\u0438\u0448\u0438\u0442\u0435, \u0447\u0442\u043e \u043f\u04
 r=A.em(m,B.aw,!1,m,!0,B.x,m,A.et(),n.w,m,m,m,m,m,2,B.ajM,B.z,!0,m,!0,m,!1,m,B.aR,m,m,m,B.b2t,m,m,m,4000,m,6,m,m,!1,"\u2022",m,m,m,m,m,!1,m,m,!1,m,!0,m,B.b1,m,m,m,m,m,m,m,m,m,m,m,m,!0,B.ah,m,B.aTF,m,m,m,m)
 q=A.em(m,B.aw,!1,m,!0,B.x,m,A.et(),n.x,m,m,m,m,m,2,B.ajP,B.z,!0,m,!0,m,!1,m,B.aR,m,m,m,B.b2q,m,B.xh,m,320,m,1,m,m,!1,"\u2022",m,m,m,m,m,!1,m,m,!1,m,!0,m,B.b1,m,m,m,m,m,m,m,m,m,m,m,m,!0,B.ah,m,B.bc,m,m,m,m)
 j=j.Q
-j=A.p("\u0412\u0435\u0440\u0441\u0438\u044f 1.0.189 (192) \xb7 web",m,m,m,m,m,j==null?m:j.ar(B.q.q(0.7)),m,m,m)
+j=A.p("\u0412\u0435\u0440\u0441\u0438\u044f 1.0.190 (193) \xb7 web",m,m,m,m,m,j==null?m:j.ar(B.q.q(0.7)),m,m,m)
 p=n.y?m:n.gaWG()
 o=A.mI(B.f,m,B.Gp,m,B.kK,m,m)
 j=A.W(A.a([s,B.fW,r,B.U,q,B.K,j,B.hA,A.iU(n.y?B.a3B:B.a4o,B.b2_,p,o)],t.p),B.C,m,B.h,B.i,0,m,B.k)}return A.hn(m,B.zv,j,k,m,!0,"\u041f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430")}}
