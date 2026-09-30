@@ -70328,7 +70328,7 @@ return A.e(B.et.fp(0),$async$ki)
 case 7:j=c
 if(j!=null&&j.length!==0)J.bM(k,"Authorization","Bearer "+j)
 s=8
-return A.e(m.a.a35("/api/telemetry/perf",A.a2(["platform",A.bE1(),"appVersion","1.0.265 (268)","events",l],i,t.K),A.bDX(k),h),$async$ki)
+return A.e(m.a.a35("/api/telemetry/perf",A.a2(["platform",A.bE1(),"appVersion","1.0.266 (269)","events",l],i,t.K),A.bDX(k),h),$async$ki)
 case 8:n.push(6)
 s=5
 break
@@ -77524,7 +77524,7 @@ m.push(B.em)
 m.push(new A.aoG(r>=4?o.gaXm():n,B.dd,n))
 if(o.Q)B.c.J(m,A.a([B.em,B.b8i,B.ci,new A.anX(o.gaYC(),B.dd,n)],j))
 B.c.J(i,m)}i.push(B.aN0)
-i.push(A.p("1.0.265 (268)",B.b2b,n,n,n,n,A.dl().$3$color$fontSize$letterSpacing(B.yS.q(0.8),12,0.2),B.G,n,n))
+i.push(A.p("1.0.266 (269)",B.b2b,n,n,n,n,A.dl().$3$color$fontSize$letterSpacing(B.yS.q(0.8),12,0.2),B.G,n,n))
 return A.fQ(n,B.acw,A.kq(A.dW(!0,new A.a6(B.afx,A.X(i,B.l,n,B.h,B.i,0,n,B.k),n),B.L,!0,!0),k),n,!1,!1,n,n)}}
 A.bv3.prototype={
 $0(){var s=this.a
@@ -79930,7 +79930,7 @@ e.push(new A.ro(A.a([new A.mk(A.aI(B.ah7,B.f.q(0.95),a7,a7,22),"\u0412\u044b\u04
 e.push(B.fX)
 a9=g.Q
 r=a9==null
-e.push(A.p("\u0412\u0435\u0440\u0441\u0438\u044f 1.0.265 (268)",B.b2J,a7,a7,a7,a7,r?a7:a9.ar(B.q.q(0.7)),B.G,a7,a7))
+e.push(A.p("\u0412\u0435\u0440\u0441\u0438\u044f 1.0.266 (269)",B.b2J,a7,a7,a7,a7,r?a7:a9.ar(B.q.q(0.7)),B.G,a7,a7))
 e.push(B.S)
 e.push(A.p("\u0427\u0442\u0435\u043d\u0438\u044f \xab\u0428\u0435\u043f\u043e\u0442 \u043a\u0430\u0440\u0442\xbb \u0441\u043e\u0437\u0434\u0430\u044e\u0442\u0441\u044f \u0418\u0418 \u0434\u043b\u044f \u0440\u0430\u0437\u043c\u044b\u0448\u043b\u0435\u043d\u0438\u044f \u0438 \u0440\u0430\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u044f. \u041e\u043d\u0438 \u043d\u0435 \u0437\u0430\u043c\u0435\u043d\u044f\u044e\u0442 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0443\u044e \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0446\u0438\u044e.",a7,a7,a7,a7,a7,r?a7:a9.dr(B.q.q(0.75),1.35),a7,a7,a7))
 return A.hr(a7,new A.Y(20,4,20,100+h.r.d),A.X(e,B.C,a7,B.h,B.i,0,a7,B.k),i,a7,!0,"")}}
@@ -80372,7 +80372,7 @@ g=m.gbv().ae(0,$.ef(),t.A)
 f=B.d.Y(m.x.a.a)
 if(f.length===0)f=null
 s=7
-return A.e(g.qm("1.0.265 (268)",f,d,A.bE1()),$async$O9)
+return A.e(g.qm("1.0.266 (269)",f,d,A.bE1()),$async$O9)
 case 7:if(m.c==null){n=[1]
 s=5
 break}m.I(new A.bp2(m))
@@ -80414,7 +80414,7 @@ s=A.p("\u041e\u043f\u0438\u0448\u0438\u0442\u0435, \u0447\u0442\u043e \u043f\u04
 r=A.er(m,B.ax,!1,m,!0,B.x,m,A.eA(),n.w,m,m,m,m,m,2,B.ajI,B.z,!0,m,!0,m,!1,m,B.aR,m,m,m,B.b2x,m,m,m,4000,m,6,m,m,!1,"\u2022",m,m,m,m,m,!1,m,m,!1,m,!0,m,B.b1,m,m,m,m,m,m,m,m,m,m,m,m,!0,B.ag,m,B.aTI,m,m,m,m)
 q=A.er(m,B.ax,!1,m,!0,B.x,m,A.eA(),n.x,m,m,m,m,m,2,B.ajL,B.z,!0,m,!0,m,!1,m,B.aR,m,m,m,B.b2u,m,B.xo,m,320,m,1,m,m,!1,"\u2022",m,m,m,m,m,!1,m,m,!1,m,!0,m,B.b1,m,m,m,m,m,m,m,m,m,m,m,m,!0,B.ag,m,B.bb,m,m,m,m)
 j=j.Q
-j=A.p("\u0412\u0435\u0440\u0441\u0438\u044f 1.0.265 (268) \xb7 web",m,m,m,m,m,j==null?m:j.ar(B.q.q(0.7)),m,m,m)
+j=A.p("\u0412\u0435\u0440\u0441\u0438\u044f 1.0.266 (269) \xb7 web",m,m,m,m,m,j==null?m:j.ar(B.q.q(0.7)),m,m,m)
 p=n.y?m:n.gaXk()
 o=A.lT(B.f,m,B.Gs,m,B.jt,m,m)
 j=A.X(A.a([s,B.fX,r,B.S,q,B.J,j,B.hB,A.iC(n.y?B.a3z:B.a4m,B.b22,p,o)],t.p),B.C,m,B.h,B.i,0,m,B.k)}return A.hr(m,B.zA,j,k,m,!0,"\u041f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430")}}
@@ -80616,7 +80616,7 @@ A.fj(r,s.b,s.a)},
 $S:2}
 A.avi.prototype={
 t(a){var s=null,r=B.f.q(0.95)
-return A.X(A.a([new A.ai(36,36,A.bYO(B.f.q(0.18),r,B.b30,s,s,s,s,2.4,s,s),s),B.bx,A.p("\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f...",B.b2r,s,s,s,s,A.dl().$4$color$fontSize$fontWeight$letterSpacing(B.f.q(0.92),14,B.ah,0.2),s,s,s),B.b3,A.p("1.0.265 (268)",B.b3f,s,s,s,s,A.dl().$4$color$fontSize$fontWeight$letterSpacing(B.f.q(0.55),12,B.W,0.3),s,s,s)],t.p),B.l,s,B.h,B.a3,0,s,B.k)}}
+return A.X(A.a([new A.ai(36,36,A.bYO(B.f.q(0.18),r,B.b30,s,s,s,s,2.4,s,s),s),B.bx,A.p("\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f...",B.b2r,s,s,s,s,A.dl().$4$color$fontSize$fontWeight$letterSpacing(B.f.q(0.92),14,B.ah,0.2),s,s,s),B.b3,A.p("1.0.266 (269)",B.b3f,s,s,s,s,A.dl().$4$color$fontSize$fontWeight$letterSpacing(B.f.q(0.55),12,B.W,0.3),s,s,s)],t.p),B.l,s,B.h,B.a3,0,s,B.k)}}
 A.J9.prototype={
 N(){return"TarologistStatus."+this.b}}
 A.mf.prototype={}
